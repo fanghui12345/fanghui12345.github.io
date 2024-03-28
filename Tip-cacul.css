@@ -1,0 +1,35 @@
+.container {
+    width:600px; 
+    height: 500px;
+    margin: auto;
+    background-color: rgb(158, 155, 155);
+    padding: 20px;
+    border: 4px solid;
+    border-color: rgb(19, 28, 109);
+
+   text-align: center;
+    padding-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+   
+ 
+
+
+}
+
+.a{
+    color: rgb(32, 76, 156);
+}
+
+.text-box {
+    margin-bottom: 10px; /* 设置文本框下方的外边距 */
+    text-align: left;
+    width: 50%; /* 设置输入框宽度 */
+    height:5%; /* 包含边框和l内边距在内的宽度计算 */
+    
+    color: rgb(101, 101, 236)
+
+
+    
+  }
